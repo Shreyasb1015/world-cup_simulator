@@ -16,7 +16,7 @@ You should pass csv file as command line argument while compiling.
 
 1.Ensure that you have Python 3.x installed on your system.
 
-3.Download the csv files containing data about FIFA rankings of each team .You can find it along with my code on my github profile.
+2.Download the csv files containing data about FIFA rankings of each team .You can find it along with my code on my github profile.
 ## Learning Goals
 
 1.To learn how to work with csv files.
